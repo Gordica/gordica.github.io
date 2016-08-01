@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+import skilstak.colors as c
+
+print(c.blue + "Hi there what's your name?")
